@@ -1,10 +1,10 @@
-# movie-recommendation-system
+# recommendation-system
 Welcome to the **Movie Recommender System** repository! This project implements a simple movie recommendation system using Python and pandas. The goal is to recommend movies similar to a selected movie based on user ratings and correlation.
 
 ## Overview
 This project is divided into multiple sections, starting with:
 
-### Section A: Simple Recommendation System
+### Section A: Simple Movie Recommendation System
 In this section, we:
 - Use Python and pandas to develop a basic recommendation system.
 - Suggest movies similar to a particular movie using correlation-based methods.
