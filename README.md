@@ -15,3 +15,6 @@ In this section, we:
 1. **Dataset:** We use a dataset containing movie ratings provided by multiple users.
 2. **Correlation Calculation:** Using the pandas library, we calculate correlations between movies based on user ratings.
 3. **Recommendation:** Sort movies by correlation scores to recommend similar movies.
+
+
+### Section B: Product Recommendation System
