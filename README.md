@@ -18,3 +18,17 @@ In this section, we:
 
 
 ### Section B: Product Recommendation System
+Recommends products (like movies) to a specific user based on their preferences.
+
+## How It Works
+
+1. We use User-Product Rating data to find products rated by similar users.
+2. It focuses on Collaborative Filtering, considering both the preferences of the user and other users’ behavior.
+
+### Section C: Content-Based Recommendation System
+Recommends movies similar to a particular movie by looking at its content.
+
+## How It Works
+
+1. Uses CountVectorizer to transform genres, keywords, and tags into numerical vectors.
+2. Computes Cosine Similarity to find which films are most similar in content.
